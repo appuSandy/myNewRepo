@@ -6,3 +6,7 @@
 #include <unistd.h>
 #include <dirent.h>
 #include <errno.h>
+#include <sys/time.h>
+#include <time.h>
+
+#define MAX_STRING_LEN 255
